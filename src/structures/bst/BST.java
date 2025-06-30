@@ -3,9 +3,6 @@ package structures.bst;
 import java.util.ArrayList;
 import java.util.List;
 
-
-
-
 /**
  * Árbol binario de búsqueda (BST) que asocia claves int (número de victorias)
  * con listas de nombres de jugadores (String).

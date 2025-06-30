@@ -1,3 +1,4 @@
+package model;
 
 
 public class Player {
@@ -46,6 +47,4 @@ public class Player {
         return (double) wins / totalGames;
     }
 
-    
-    
 }
